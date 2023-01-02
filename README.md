@@ -1,7 +1,9 @@
-<h1 align="center">Olá 👋, Eu sou o Luiz Fernando</h1>
+## Olá, Eu sou o Luiz Fernando
 <h3 align="center">Apaixonado por ciências e análise de dados e louco por tecnologia</h3>
 
-- 🌱 Atualmente estou aprendendo **Python para análise de dados e Machine Learning**
+- 👨‍💻 Atualmente trabalho com análise de dados
+
+- 🔋 Estudando Python para Análise de Dados, Machine Learning e AI
 
 - 💬 Me pergunte sobre **Power BI, Excel, Python, SQL**
 
@@ -9,26 +11,31 @@
 
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/lf-monteiro/](https://www.linkedin.com/in/lf-monteiro/)
 
-<h3 align="left">Me ache em:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lf-monteiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lf-monteiro/" height="30" width="40" /></a>
-</p>
+##
+
+<div align="center">
+  <a href="https://github.com/luizssilva99">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizssilva99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizssilva99&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luiz-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luiz-heroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
+  <img align="center" alt="Luiz-jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Luiz-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Luiz-numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+   
+</div>
+
+##
+
+<div>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://aleen42.github.io/badges/src/reddit.svg" target="_blank"></a>
+  
+</div>
 
 
-
-
-<!---
-
-- 👋 Hi, I’m @luizssilva99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-luizssilva99/luizssilva99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
