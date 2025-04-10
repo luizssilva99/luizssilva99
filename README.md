@@ -12,12 +12,12 @@
 ##
 
 #### Estou aprendendo sobre:
-[![My Skills](https://skillicons.dev/icons?i=python,aws,docker,selenium,azure,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
 ##
 
 #### Ferramentas que uso:
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,docker,linux,py,selenium)](https://skillicons.dev)
 
 ##
 
