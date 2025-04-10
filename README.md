@@ -79,7 +79,7 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
 ##
 
 #### Estatísticas:
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizssilva99&layout=compact&langs_count=7&theme=outrun"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizssilva99&layout=compact&langs_count=4&theme=outrun"/>](https://github.com/)
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizssilva99&show_icons=true&theme=outrun)
 
 
