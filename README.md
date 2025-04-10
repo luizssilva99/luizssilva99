@@ -37,6 +37,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Competências: `Análise de Dados`, `ETL`, `Automatização`, `Análise exploratória`, `Python`, `SQL`, `Power BI`
 <br/> `Análise e Integridade de dados`, `Inovação`, `Limpeza e pré-processamento de dados`
 <br/> `Desenho e implementação de pipelines de dados;`
+<br/>
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="IBAMA" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Logo_IBAMA.svg"/>](https://www.gov.br/mj/pt-br)
 **Cientista de Dados Júnior** \
@@ -44,12 +46,16 @@ Competências: `Análise de Dados`, `ETL`, `Automatização`, `Análise explorat
 Competências: `Análise de Dados`, `ETL`, `Automatização`, `Análise exploratória`, `Python`, `SQL`, `Power BI`
 <br/> `Análise e Integridade de dados`, `Inovação`, `Limpeza e pré-processamento de dados`
 <br/> `Desenho e implementação de pipelines de dados;`
+<br/>
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="MJ" src="https://dspace.mj.gov.br/retrieve/74805ae2-e77e-4327-afbe-7896dcfe94a6"/>](https://www.gov.br/mj/pt-br)
 **Cientista de Dados Júnior** \
 [**Ministério da Justiça e Segurança Pública**](https://www.gov.br/mj/pt-br) • 2022 - 2024 \
 Competências: `Análise de Dados`, `ETL`, `Análise exploratória`, `Python`, `SQL`, `Power BI`
 <br/> `Análise e Integridade de dados`, `Inovação`
+<br/>
+<br/>
 
 ##
 
@@ -60,6 +66,15 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
 **Sistemas de Informação** \
 [**UPIS - União Pioneira de Integração Social - Faculdades Integradas**](https://upis.br/) \
 <br/>
+<br/>
+<br/>
+[<img align="left" height="94px" width="94px" alt="UPIS" src="https://yt3.googleusercontent.com/ZiSCzk3KAyRy158X7YJ_woIdyPP8LVPf2OT-C67dQeP57T1t6usdNuj8lOKCuscjrS_yPVtiKw=s900-c-k-c0x00ffffff-no-rj"/>](https://descomplica.com.br/pos-graduacao/b/?utm_source=google&utm_medium=cpc&utm_campaign=psq-snb_pg_performance_gwt-paid-media_meio_conversao_ongoing_lead_generico_ampla_frase&utm_term=pos-gradua%C3%A7%C3%A3o&utm_content=Pos_Ampla&gad_source=1&gclid=Cj0KCQjw2N2_BhCAARIsAK4pEkWiwUfY7_q8STqBTd81vLoRpYfBC77JCaFFE5lON5rU_cEJ1MJoBFMaAl-DEALw_wcB)
+**MBA em Big Data e Inteligência Competitiva** \
+[**Faculdade Descomplica**](https://descomplica.com.br/pos-graduacao/b/?utm_source=google&utm_medium=cpc&utm_campaign=psq-snb_pg_performance_gwt-paid-media_meio_conversao_ongoing_lead_generico_ampla_frase&utm_term=pos-gradua%C3%A7%C3%A3o&utm_content=Pos_Ampla&gad_source=1&gclid=Cj0KCQjw2N2_BhCAARIsAK4pEkWiwUfY7_q8STqBTd81vLoRpYfBC77JCaFFE5lON5rU_cEJ1MJoBFMaAl-DEALw_wcB) \
+<br/>
+<br/>
+<br/>
+
 
 ##
 
