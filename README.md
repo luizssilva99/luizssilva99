@@ -31,10 +31,24 @@
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="94px" alt="IBAMA" src="https://media.licdn.com/dms/image/v2/D4D0BAQGhjQ-W24eT2A/company-logo_200_200/company-logo_200_200/0/1703195012178/join_ti_logo?e=2147483647&v=beta&t=x6nk97pY6dTSIiqqX8X73rfFtWCyMLVLosRa6Fm3wX4"/>](https://www.gov.br/mj/pt-br)
+**Analista de BI Pleno** \
+[**Join Tecnologia**](https://www.linkedin.com/company/join-ti/posts/?feedView=all) • ATUAL \
+Competências: `Análise de Dados`, `ETL`, `Automatização`, `Análise exploratória`, `Python`, `SQL`, `Power BI`
+<br/> `Análise e Integridade de dados`, `Inovação`, `Limpeza e pré-processamento de dados`
+<br/> `Desenho e implementação de pipelines de dados;`
+
+[<img align="left" height="94px" width="94px" alt="IBAMA" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Logo_IBAMA.svg"/>](https://www.gov.br/mj/pt-br)
+**Cientista de Dados Júnior** \
+[**Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA**](https://www.gov.br/ibama/pt-br) • 2024 - 2024 \
+Competências: `Análise de Dados`, `ETL`, `Automatização`, `Análise exploratória`, `Python`, `SQL`, `Power BI`
+<br/> `Análise e Integridade de dados`, `Inovação`, `Limpeza e pré-processamento de dados`
+<br/> `Desenho e implementação de pipelines de dados;`
+
 [<img align="left" height="94px" width="94px" alt="MJ" src="https://dspace.mj.gov.br/retrieve/74805ae2-e77e-4327-afbe-7896dcfe94a6"/>](https://www.gov.br/mj/pt-br)
-**Analista de Dados** \
-[**Ministério da Justiça e Segurança Pública**](https://www.gov.br/mj/pt-br) • Full-time \
-Competências: `Análise de Dados`, `ETL`, `Automatização`, `Análise exploratória`
+**Cientista de Dados Júnior** \
+[**Ministério da Justiça e Segurança Pública**](https://www.gov.br/mj/pt-br) • 2022 - 2024 \
+Competências: `Análise de Dados`, `ETL`, `Análise exploratória`, `Python`, `SQL`, `Power BI`
 <br/> `Análise e Integridade de dados`, `Inovação`
 
 ##
