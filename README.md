@@ -36,7 +36,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Join Tecnologia**](https://www.linkedin.com/company/join-ti/posts/?feedView=all) • ATUAL \
 Competências: `Análise de Dados`, `ETL`, `Automatização`, `Análise exploratória`, `Python`, `SQL`, `Power BI`
 <br/> `Análise e Integridade de dados`, `Inovação`, `Limpeza e pré-processamento de dados`
-<br/> `Desenho e implementação de pipelines de dados;`
+<br/> `Desenho e implementação de pipelines de dados`
 <br/>
 <br/>
 
@@ -45,7 +45,7 @@ Competências: `Análise de Dados`, `ETL`, `Automatização`, `Análise explorat
 [**Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA**](https://www.gov.br/ibama/pt-br) • 2024 - 2024 \
 Competências: `Análise de Dados`, `ETL`, `Automatização`, `Análise exploratória`, `Python`, `SQL`, `Power BI`
 <br/> `Análise e Integridade de dados`, `Inovação`, `Limpeza e pré-processamento de dados`
-<br/> `Desenho e implementação de pipelines de dados;`
+<br/> `Desenho e implementação de pipelines de dados`
 <br/>
 <br/>
 
