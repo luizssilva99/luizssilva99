@@ -6,7 +6,7 @@
 
 - 📍  Sou de Brasília - DF, Brasil
 - ❤️ Apaixonado por Futebol e Tecnologia
-- 🔋 Estudando Python para Análise de Dados, Machine Learning e IA
+- 🔋 Python para Análise de Dados, Machine Learning e IA
 - 🧠 Formado em Sistemas de Informação
 
 ##
